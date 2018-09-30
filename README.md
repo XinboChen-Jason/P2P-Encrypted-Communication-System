@@ -1,15 +1,15 @@
 # P2P-Encrypted-Communication-System
 
-Hi every one, I just moved this project from my personal space to github.
-This project was designed to develope a point to point comminication system, no central server needed, you can directly reach anyone on the internet with there ip and port(port map required) if they are 'visable'.
+Hi everyone, I just moved this project from my personal space to Github.
+This project was designed to develop a point to point communication system, no central server needed, you can directly reach anyone on the internet with there IP and port(port map required) if they are 'visible'.
 It is a weekend project. Therefore, a limited time will be dedicated. I split this project into several stages:
   1. TCP or UDP communication under LAN-Local Area Network.
      
      source code upload   ServerDemo.java ClientDemo.java
      
-     Run these code in two seperate console in Eclipse or command line.
+     Run these code in two separate consoles in Eclipse or command line.
      
-  2. TCP communication under WAN-Wide Area Network, a central sever reqired in this stage to help clients to find each other.     
+  2. TCP communication under WAN-Wide Area Network, a central server required in this stage to help clients to find each other.     
   3. Implement P2P technology, then clients can find others without a central server.
   4. Implement encrypt technology.
   
