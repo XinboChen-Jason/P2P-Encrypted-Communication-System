@@ -6,6 +6,7 @@ It is a weekend project. Therefore, a limited time will be dedicated. I split th
   1. TCP or UDP communication under LAN-Local Area Network.
      
      source code upload   ServerDemo.java ClientDemo.java
+     
      Run these code in two seperate console in Eclipse or command line.
      
   2. TCP communication under WAN-Wide Area Network, a central sever reqired in this stage to help clients to find each other.     
