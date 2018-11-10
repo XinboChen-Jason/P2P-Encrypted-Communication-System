@@ -22,3 +22,5 @@ Update 2018-09-30:
   Currently working on stage two.
   Stage three is very hard, when I get there I will try my best to figure it out.
  
+Update 2018-11-09:
+  Woking on research technologies.
